@@ -1,0 +1,6 @@
+{
+  "name": "EnergyShield AI",
+  "description": "AI-Powered Energy Supply Chain Resilience & Digital Twin platform for import-dependent economies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
