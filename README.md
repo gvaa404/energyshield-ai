@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # 🛡️ EnergyShield AI
 
 **AI-Driven Energy Supply Chain Resilience for Import-Dependent Economies**
