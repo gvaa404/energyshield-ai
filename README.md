@@ -131,8 +131,3 @@ There's also a built-in `DemoWalkthrough.tsx` component that can guide this tour
 - All supplier/corridor figures are **synthetic but calibrated** against public energy statistics (~88% import dependence, ~9.5 days SPR cover, Strait of Hormuz / Red Sea corridor shares) — this is a decision-support simulation, not live production data.
 - No proprietary or confidential data is used.
 
-## License / Attribution
-
-Add your team's license of choice here before submission (e.g. MIT), and credit any third-party datasets or assets used.
-
->>>>>>> 3d82e543a5939255f1cf0580971603088d43f523
